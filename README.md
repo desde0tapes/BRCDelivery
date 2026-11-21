@@ -28,7 +28,7 @@ Bonuses:
 Delivery under 1 Minute
 
 — BombRush Delivery (+50 HyperBoost Units)
-Delivery under 2 Minutes
+Delivery under 4 Minutes
 
 Penalties:
 
@@ -58,8 +58,4 @@ Now copy the BRCDeliveryAssets folder with the required .cbb assets (these are t
 <img width="908" height="548" alt="image" src="https://github.com/user-attachments/assets/9fd2ebbd-3321-45de-bd76-12277a9c525a" />
 
 Lastly copy the config/BRCDeliveryLocations folder in the config folder
-
-
-<img width="900" height="549" alt="image" src="https://github.com/user-attachments/assets/e1ba05cc-d8c9-48b6-9606-d9fe5bbc1e5e" />
-
 
