@@ -17,7 +17,7 @@ using System.Text;
 
 namespace BRCDelivery
 {
-    [BepInPlugin("com.desdezerotapes.brcdelivery", "BRCDelivery", "1.0.0")]
+    [BepInPlugin("com.desdezerotapes.brcdelivery", "BRCDelivery", "1.0.1")]
     [BepInDependency("dance.tari.bombrushcyberfunk.customappapi")]
     [BepInDependency("com.Dragsun.BunchOfEmotes", BepInDependency.DependencyFlags.SoftDependency)]
     public class Plugin : BaseUnityPlugin
@@ -836,8 +836,12 @@ namespace BRCDelivery
         private void LoadDeliveryLocations()
         {
             loadedDeliveryPoints.Clear();
-            string locationsRoot = Path.Combine(Paths.ConfigPath, "Locations");
-            if (!Directory.Exists(locationsRoot)) return;
+            string locationsRoot = Path.Combine(Paths.ConfigPath, "BRCDeliveryLocations");
+            if (!Directory.Exists(locationsRoot))
+            {
+                Directory.CreateDirectory(locationsRoot);
+                return;
+            }
 
             string[] files = Directory.GetFiles(locationsRoot, "*.txt", SearchOption.AllDirectories);
             foreach (string file in files)
