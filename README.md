@@ -28,7 +28,8 @@ A new Pick-Up spot has been randomly chosen. The UI will tell you if the Pick-Up
 
 Once you get the Pick-up a new Delivery location gets pinned and you get 10 in-game minutes to deliver!
 
-<img width="981" height="470" alt="gkjeakj4yhjeah" src="https://github.com/user-attachments/assets/2eb5929f-0369-4b28-b696-bfffdeb29690" />
+<img width="981" height="470" alt="hsrkntsrehn" src="https://github.com/user-attachments/assets/7a62ad27-e814-4a26-83d8-8e251e41b0af" />
+
 
 
 
