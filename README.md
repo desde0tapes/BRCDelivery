@@ -63,7 +63,7 @@ After downloading the BRCDelivery zip file from releases
 
 <img width="786" height="457" alt="image" src="https://github.com/user-attachments/assets/08eba328-5f20-4173-a94a-3d16ada21994" />
 
-Copy the plugins/BRCDelivery folder into your plugins folder of BepInEx
+1. Copy the plugins/BRCDelivery folder into your plugins folder of BepInEx
 
 <img width="511" height="457" alt="image" src="https://github.com/user-attachments/assets/d7d24a5e-4b3a-4c50-b741-198ba74a0e6d" />
 <img width="511" height="457" alt="image" src="https://github.com/user-attachments/assets/d706a5be-b58d-4c1f-9270-0f19b2950e41" />
@@ -71,11 +71,19 @@ Copy the plugins/BRCDelivery folder into your plugins folder of BepInEx
 <img width="743" height="570" alt="image" src="https://github.com/user-attachments/assets/e566fd36-c511-4094-bab0-a12386acdf65" />
 
 
-Now copy the BRCDeliveryAssets folder with the required .cbb assets (these are the floor light and box models) and paste it right in your BepInEx folder !
+2. Now copy the BRCDeliveryAssets folder with the required .cbb assets (these are the floor light and box models) and paste it right in your BepInEx folder !
 
 <img width="511" height="457" alt="image" src="https://github.com/user-attachments/assets/7d4e1ca5-67a7-4065-a76b-f85da6e0ec5d" />
 
 <img width="908" height="548" alt="image" src="https://github.com/user-attachments/assets/9fd2ebbd-3321-45de-bd76-12277a9c525a" />
 
-Lastly copy the config/BRCDeliveryLocations folder in the config folder
+3. Lastly copy the config/BRCDeliveryLocations folder in the config folder
+
+<img width="511" height="457" alt="image" src="https://github.com/user-attachments/assets/18bdde39-20e1-4bea-8d25-21754151f9b4" />
+<img width="511" height="457" alt="image" src="https://github.com/user-attachments/assets/8d2d2aa7-81e5-4ebf-b4ec-c579f889c5e7" />
+
+<img width="747" height="573" alt="image" src="https://github.com/user-attachments/assets/ef0298d4-e124-48c4-937c-fc2fbb2ddb59" />
+
+
+
 
