@@ -68,7 +68,8 @@ Copy the plugins/BRCDelivery folder into your plugins folder of BepInEx
 <img width="511" height="457" alt="image" src="https://github.com/user-attachments/assets/d7d24a5e-4b3a-4c50-b741-198ba74a0e6d" />
 <img width="511" height="457" alt="image" src="https://github.com/user-attachments/assets/d706a5be-b58d-4c1f-9270-0f19b2950e41" />
 
-<img width="907" height="549" alt="image" src="https://github.com/user-attachments/assets/16595112-f14a-4f04-b2a3-398746a20dc1" />
+<img width="743" height="570" alt="image" src="https://github.com/user-attachments/assets/e566fd36-c511-4094-bab0-a12386acdf65" />
+
 
 Now copy the BRCDeliveryAssets folder with the required .cbb assets (these are the floor light and box models) and paste it right in your BepInEx folder !
 
