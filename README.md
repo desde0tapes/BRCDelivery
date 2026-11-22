@@ -8,9 +8,11 @@ Adds a Delivery mini game to BRC that earns HyperBoost units for HyperBoostMod
 
 BRCDelivery its a pickup-and-deliver micro game meant to generate HyperBoost Units for your HyperBoostMod across the vanilla stages (custom maps support coming soon!).
 
-— Generate HyperBoost Units !
-— Get Bonuses (or Penalties!)
-— Learn your best Time Limit !
+—✰ Generate HyperBoost Units !
+
+—✰ Get Bonuses (or Penalties!)
+
+—✰ Learn your best Time Limit !
 
 To catch a new Delivery open your phone and hit the New Delivery app.
 
