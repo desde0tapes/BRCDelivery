@@ -23,8 +23,15 @@ A new Pick-Up spot has been randomly chosen. The UI will tell you if the Pick-Up
 
 -Description of Location
 
+<img width="690" height="555" alt="GIhea4h" src="https://github.com/user-attachments/assets/e17b49e0-58c2-43ab-be5a-d4c846f60e95" />
+
 
 Once you get the Pick-up a new Delivery location gets pinned and you get 10 in-game minutes to deliver!
+
+![Uploading gkjeakj4yhjeah.gif…]()
+
+
+
 
 Go Fast to avoid penalties, get time bonuses or beat your personal time limit!
 
