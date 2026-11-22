@@ -59,6 +59,8 @@ Penalties:
 
 After downloading the BRCDelivery zip file from releases
 
+**THERE ARE 3 FOLDERS YOU NEED TO COPY !!!**
+
 <img width="786" height="457" alt="image" src="https://github.com/user-attachments/assets/08eba328-5f20-4173-a94a-3d16ada21994" />
 
 Copy the plugins/BRCDelivery folder into your plugins folder of BepInEx
