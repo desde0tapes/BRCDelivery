@@ -56,7 +56,7 @@ Penalties:
 
 — Late Deliver = 9+ Minutes Deliver
 
-— Not Delivering = 10 minute limit reached (Insta-kill and/or Insta-broke, first triggers the death sequence and the second will empty your HyperBoost Units wallet entirely)
+— Not Delivering = 10 minute limit reached (Insta-kill and/or Insta-broke, first triggers the death sequence and the second will empty your HyperBoost Units wallet entirely) [These are disabled by default]
 
 ## REQUIREMENTS
 
