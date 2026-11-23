@@ -52,7 +52,7 @@ Delivery under 4 Minutes
 
 Penalties:
 
-— Cancelling an order (-200 HyperBoost Units)
+— Cancelling an order (-200 HyperBoost Units) (default Numpad3)
 
 — Late Deliver = 9+ Minutes Deliver
 
