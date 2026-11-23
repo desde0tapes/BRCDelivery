@@ -62,6 +62,8 @@ Penalties:
 
 ### Configuration Manager recommended
 
+IMPORTANT Note If you have GoVeganUwU Texture and Play Manager: that had the older version of "Bombrush Delivery" included in it, I recommend to update it to its current one — The "Lite" version its now the standard version since the delivery became its own mod (this one), so this way you will not have the two deliveries interfering with each other.
+
 ## How to Install?
 
 After downloading the BRCDelivery zip file from releases
@@ -95,8 +97,24 @@ After downloading the BRCDelivery zip file from releases
 
 Set any BRC or BOE animation as your victory dance !
 
-## Time Limit Scoring
+## — Current Stage Only Toggle Option
+
+## — Time Limit Scoring
 
 Press (default Numpad4) to start a personal Time Limit of 20 minutes! Your best time of completed deliveries will get saved.
 
+## How to create new Map locations for the deliveries?
 
+To create a location to be shuffled in the deliveries collection just create it with GeoSaver and add [MAPNAME] between brackets with the correct map name anywhere in the name.
+
+The plugin will shuffle and use any .txt delivery location that you create with GeoSaver, then you must rename to have the following tags anywhere on the name:
+
+[Hideout] or [hideout]
+[VersumHill] or [versumhill]
+[Mataan] or [mataan]
+[BrinkTerminal] or [brinkterminal]
+[MilleniumSquare] or [milleniumsquare]
+[PyramidIsland] or [pyramidisland]
+
+Example:
+[Hideout] Main Area (Billards Table).txt
