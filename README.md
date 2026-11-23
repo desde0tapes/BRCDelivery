@@ -58,7 +58,11 @@ Penalties:
 
 — Not Delivering = 10 minute limit reached (Insta-kill and/or Insta-broke, first triggers the death sequence and the second will empty your HyperBoost Units wallet entirely)
 
-### How to Install?
+## REQUIREMENTS
+
+### Configuration Manager recommended
+
+## How to Install?
 
 After downloading the BRCDelivery zip file from releases
 
@@ -86,6 +90,10 @@ After downloading the BRCDelivery zip file from releases
 <img width="511" height="457" alt="image" src="https://github.com/user-attachments/assets/8d2d2aa7-81e5-4ebf-b4ec-c579f889c5e7" />
 
 <img width="747" height="573" alt="image" src="https://github.com/user-attachments/assets/ef0298d4-e124-48c4-937c-fc2fbb2ddb59" />
+
+## Victory Dances & Bunch Of Emotes Support
+
+Set any BRC or BOE animation as your victory dance !
 
 ## Time Limit Scoring
 
