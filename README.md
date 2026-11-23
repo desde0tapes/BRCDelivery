@@ -24,7 +24,7 @@ A new Pick-Up spot has been randomly chosen. The UI will tell you if the Pick-Up
 <img width="1130" height="666" alt="image" src="https://github.com/user-attachments/assets/e3eb6f22-cb16-4fa3-ad99-b99ba2fa6c54" />
 
 For all your destinations you get:<br>
--Distance Meter to your destination (Pick-Up)<br>
+-Distance Meter to your destination<br>
 
 -Pin in your Phone Map<br>
 
