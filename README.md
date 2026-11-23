@@ -2,11 +2,11 @@
 
 <img width="1742" height="961" alt="6u" src="https://github.com/user-attachments/assets/1ad06ef9-8976-441b-b20d-7a5bdf0e3223" />
 
-Adds a Delivery mini game to BRC that earns HyperBoost units for HyperBoostMod
+Adds a Delivery mini game to BRC that earns HyperBoost units for [HyperBoostMod](https://github.com/desde0tapes/HyperBoostMod)
 
 ### What is it?
 
-BRCDelivery its a pickup-and-dropoff micro game meant to generate HyperBoost Units for your HyperBoostMod across the vanilla stages (custom maps support coming soon!).
+BRCDelivery its a pickup-and-dropoff micro game meant to generate HyperBoost Units for your [HyperBoostMod](https://github.com/desde0tapes/HyperBoostMod) across the vanilla stages (custom maps support coming soon!).
 
 —✰ Generate HyperBoost Units !
 
@@ -62,7 +62,7 @@ Penalties:
 
 ### Configuration Manager recommended
 
-IMPORTANT Note If you have GoVeganUwU Texture and Play Manager: that had the older version of "Bombrush Delivery" included in it, I recommend to update it to its current one — The "Lite" version its now the standard version since the delivery became its own mod (this one), so this way you will not have the two deliveries interfering with each other.
+IMPORTANT Note If you have GoVeganUwU Texture and Play Manager: that had the older version of "Bombrush Delivery" included in it, I recommend to [update](https://github.com/desde0tapes/GoVeganUwUTextureManager) it to its current one — The "Lite" version its now the standard version since the delivery became its own mod (this one), so this way you will not have the two deliveries interfering with each other.
 
 ## How to Install?
 
@@ -71,6 +71,7 @@ After downloading the BRCDelivery zip file from releases
 **THERE ARE 3 FOLDERS YOU NEED TO COPY !!!**
 
 <img width="786" height="457" alt="image" src="https://github.com/user-attachments/assets/08eba328-5f20-4173-a94a-3d16ada21994" />
+
 
 1. Copy the plugins/BRCDelivery folder into your plugins folder of BepInEx
 
