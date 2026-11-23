@@ -111,12 +111,12 @@ To create a location to be shuffled in the deliveries collection just create it 
 
 The plugin will shuffle and use any .txt delivery location that you create with GeoSaver, then you must rename to have the following tags anywhere on the name:
 
-[Hideout] or [hideout] <b>
-[VersumHill] or [versumhill] <b>
-[Mataan] or [mataan] <b>
-[BrinkTerminal] or [brinkterminal] <b>
-[MilleniumSquare] or [milleniumsquare] <b>
-[PyramidIsland] or [pyramidisland] <b>
+[Hideout] or [hideout] <br>
+[VersumHill] or [versumhill] <br>
+[Mataan] or [mataan] <br>
+[BrinkTerminal] or [brinkterminal] <br>
+[MilleniumSquare] or [milleniumsquare] <br>
+[PyramidIsland] or [pyramidisland] <br>
 
 Example:
 [Hideout] Main Area (Billards Table).txt
