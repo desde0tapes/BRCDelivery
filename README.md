@@ -99,6 +99,8 @@ Set any BRC or BOE animation as your victory dance !
 
 ## — Current Stage Only Toggle Option
 
+Toggle this option to only Shuffle the locations of the current stage.
+
 ## — Time Limit Scoring
 
 Press (default Numpad4) to start a personal Time Limit of 20 minutes! Your best time of completed deliveries will get saved.
@@ -109,11 +111,11 @@ To create a location to be shuffled in the deliveries collection just create it 
 
 The plugin will shuffle and use any .txt delivery location that you create with GeoSaver, then you must rename to have the following tags anywhere on the name:
 
-[Hideout] or [hideout]
-[VersumHill] or [versumhill]
-[Mataan] or [mataan]
-[BrinkTerminal] or [brinkterminal]
-[MilleniumSquare] or [milleniumsquare]
+[Hideout] or [hideout]<b>
+[VersumHill] or [versumhill]<b>
+[Mataan] or [mataan]<b>
+[BrinkTerminal] or [brinkterminal]<b>
+[MilleniumSquare] or [milleniumsquare]<b>
 [PyramidIsland] or [pyramidisland]
 
 Example:
