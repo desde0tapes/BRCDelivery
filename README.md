@@ -87,6 +87,8 @@ After downloading the BRCDelivery zip file from releases
 
 <img width="747" height="573" alt="image" src="https://github.com/user-attachments/assets/ef0298d4-e124-48c4-937c-fc2fbb2ddb59" />
 
+## Time Limit Scoring
 
+Press (default) Numpad4 to start a personal Time Limit of 20 minutes! Your best time of completed deliveries will get saved.
 
 
