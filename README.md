@@ -97,6 +97,6 @@ Set any BRC or BOE animation as your victory dance !
 
 ## Time Limit Scoring
 
-Press (default) Numpad4 to start a personal Time Limit of 20 minutes! Your best time of completed deliveries will get saved.
+Press (default Numpad4) to start a personal Time Limit of 20 minutes! Your best time of completed deliveries will get saved.
 
 
